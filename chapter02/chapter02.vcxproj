@@ -147,7 +147,6 @@
     <ClCompile Include="02_06.cpp" />
     <ClCompile Include="kitae.cpp" />
     <ClCompile Include="mike.cpp" />
-    <ClCompile Include="test.cpp" />
     <ClCompile Include="실_01.cpp" />
     <ClCompile Include="t_01.cpp" />
   </ItemGroup>
