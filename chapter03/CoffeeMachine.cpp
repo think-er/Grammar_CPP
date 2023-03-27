@@ -2,6 +2,8 @@
 #include "CoffeeMachine.h"
 using namespace std;
 
+CoffeeMachine::CoffeeMachine(int coffee, int water) : coffee(coffee), water(water) { }
+
 void CoffeeMachine::drinkEspresso() {
 	coffee -= 1;
 	water -= 1;

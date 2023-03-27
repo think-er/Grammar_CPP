@@ -158,6 +158,7 @@
     <ClCompile Include="t_03.cpp" />
     <ClCompile Include="실_01.cpp" />
     <ClCompile Include="실_02.cpp" />
+    <ClCompile Include="실_03.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Adder.h" />
