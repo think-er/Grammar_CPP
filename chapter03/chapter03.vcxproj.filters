@@ -60,12 +60,24 @@
     <ClCompile Include="Calculator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="실_01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실_02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CoffeeMachine.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Adder.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CoffeeMachine.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
