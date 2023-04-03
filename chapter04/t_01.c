@@ -12,4 +12,11 @@
 //	for (int i = 0; i < 4; i++) {
 //		printf("%p\n", &_arr[i]);
 //	}
+//
+//	printf("\n");
+//
+//	int i_arr[5] = { 1, 2, 3, 4, 5 };
+//	for (int i = 0; i < 5; i++) {
+//		printf("%p\n", &i_arr[i]);
+//	}
 //}
