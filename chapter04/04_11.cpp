@@ -4,7 +4,7 @@
 //
 //int main() {
 //	string str;
-//	string address("¼­¿ï½Ã ¼ººÏ±¸ »ï¼±µ¿ 389");
+//	string address("ºÎ»ê±¤¿ª½Ã ºÏ±¸ ±Ý°îµ¿");
 //	string copyAddress(address);
 //
 //	char text[] = { 'L', 'o', 'v','e', ' ', 'C', '+', '+', '\0' };
