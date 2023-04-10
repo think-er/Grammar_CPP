@@ -160,6 +160,8 @@
     <ClCompile Include="실_01.cpp" />
     <ClCompile Include="실_02.cpp" />
     <ClCompile Include="실_03.cpp" />
+    <ClCompile Include="실_04.cpp" />
+    <ClCompile Include="실_05.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
