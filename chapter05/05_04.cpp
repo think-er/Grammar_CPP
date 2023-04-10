@@ -11,15 +11,9 @@
 //	void setRadius(int radius) { this->radius = radius; }
 //};
 //
-//Circle getCircle() {
-//	Circle tmp(30);
-//	return tmp;
-//}
-//
 //int main() {
-//	Circle c;
-//	cout << c.getArea() << endl;
-//
-//	c = getCircle();
-//	cout << c.getArea() << endl;
+//	Circle circle;
+//	Circle& refc = circle;
+//	refc.setRadius(10);
+//	cout << refc.getArea() << " " << circle.getArea();
 //}
