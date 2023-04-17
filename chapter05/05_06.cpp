@@ -17,7 +17,7 @@
 //	void setRadius(int radius) { this->radius = radius; }
 //};
 //
-//void increase(Circle c) {
+//void increase(Circle &c) {
 //	int r = c.getRadius();
 //	c.setRadius(r + 1);
 //}
