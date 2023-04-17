@@ -14,7 +14,6 @@
 //
 //Person::Person(int id, string name) {
 //	this->id = id;
-//	//this->name = new char[len + 1];
 //	this->name.replace(0, name.length(), name);
 //}
 //
@@ -24,8 +23,6 @@
 ////}
 //
 //void Person::changeName(string name) {
-//	//if (strlen(name) > strlen(this->name))
-//	//	return;
 //	this->name.replace(0, name.length(), name);
 //}
 //
