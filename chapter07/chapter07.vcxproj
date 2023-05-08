@@ -23,8 +23,10 @@
     <ClCompile Include="07_02.cpp" />
     <ClCompile Include="07_03.cpp" />
     <ClCompile Include="07_04.cpp" />
-    <ClCompile Include="실_01.cpp" />
+    <ClCompile Include="실_01_1.cpp" />
+    <ClCompile Include="실_01_2.cpp" />
     <ClCompile Include="실_02.cpp" />
+    <ClCompile Include="실_03.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

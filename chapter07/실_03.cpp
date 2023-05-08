@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 class Book {
@@ -13,13 +14,17 @@ public:
 		cout << title << ' ' << price << "원" << pages << " 페이지" << endl;
 	}
 	string getTitle() { return title; }
-	bool operator!() {
-		if (this->price == 0) return true;
-		else return false;
-	}
 };
 
+bool operator<(string op1, Book op2) {
+	return op1 < op2.getTitle();
+}
+
 int main() {
-	Book book("벼룩시장", 0, 50);
-	if (!book) cout << "공짜다" << endl;
+	Book a("청춘", 20000, 300);
+	string b;
+	cout << "책 이름을 입력하세요>> ";
+	getline(cin, b);
+	if (b < a)
+		cout << a.getTitle() << "이 " << b << "보다 뒤에 있구나!" << endl;
 }

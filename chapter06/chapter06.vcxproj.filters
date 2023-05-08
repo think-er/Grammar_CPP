@@ -18,13 +18,19 @@
     <ClCompile Include="06_01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\chapter07\실_01.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="실_02.cpp">
+    <ClCompile Include="실_02_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="실_03.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실_01_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실_01_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실_02_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

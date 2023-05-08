@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\chapter07\실_01.cpp" />
     <ClCompile Include="06_01.cpp" />
-    <ClCompile Include="실_02.cpp" />
+    <ClCompile Include="실_01_1.cpp" />
+    <ClCompile Include="실_01_2.cpp" />
+    <ClCompile Include="실_02_1.cpp" />
+    <ClCompile Include="실_02_2.cpp" />
     <ClCompile Include="실_03.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
