@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="08_01.cpp" />
     <ClCompile Include="08_02.cpp" />
+    <ClCompile Include="08_03.cpp" />
+    <ClCompile Include="08_04.cpp" />
+    <ClCompile Include="08_05.cpp" />
+    <ClCompile Include="08_06.cpp" />
     <ClCompile Include="t_01.cpp" />
     <ClCompile Include="t_02.cpp" />
     <ClCompile Include="t_03.cpp" />
