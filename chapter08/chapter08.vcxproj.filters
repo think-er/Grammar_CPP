@@ -45,5 +45,14 @@
     <ClCompile Include="08_06.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="실_01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실_02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실_03.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
